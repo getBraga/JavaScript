@@ -1,7 +1,7 @@
 const numeros = [4,11,22,52,34]; /* criando uma array bagunçada*/
 const numeros2 = [4,11,22,52,34,10,,30,20,40,100];
 const numeros3 = [];
-function compararNumeros(a,b) {/* Função para  acolocar em ordem*/
+function compararNumeros(a,b) {/* Função para  colocar em ordem*/
   return  a - b;
 }
 
